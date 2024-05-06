@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on `zorb`, a data science utility that, well, absorbs data.
-- 🌱 I’m currently learning machine learning and autonomous agents, both with and without libararies that handle model generation.
+- 🌱 I’m currently doing an in-depth study of machine learning and autonomous agents, both with and without libararies that handle model generation.
 - 👯 I’m looking to collaborate on any cool project with high impact.
 - 🤔 I’m looking for help with transitioning into space tech. And funding my tech startup Zugzwang.
 - 💬 Ask me about well-known and obscure historical wars, battles, and generals. 
